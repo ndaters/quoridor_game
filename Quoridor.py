@@ -1,7 +1,7 @@
 
 # Author: Nicholas Daters
 # Date: 8/10/2021
-# Description: Creates a game of Quoridor, played according to the rules in the readme.
+# Description: Game of Quoridor.
 
 class Player:
     """Represents players of the game Quoridor. Player objects will include data members of player number, pawn
